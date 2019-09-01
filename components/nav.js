@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const links = [
   {
-    href: "https://github.com/SUNGJUNGCHOI/SUNGJUNGCHOI.github.io",
+    href: "https://github.com/SUNGJUNGCHOI.github.io",
     label: "GitHub"
   }
 ].map(link => {
